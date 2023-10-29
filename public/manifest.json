@@ -1,0 +1,32 @@
+{
+    "name": "FORMULAIRES DE CONTRÔLE",
+    "short_name": "short name",
+    "theme_color": "#fff",
+    "background_color": "#fff",
+    "display": "browser",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/form.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/form.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/form.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/form.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
